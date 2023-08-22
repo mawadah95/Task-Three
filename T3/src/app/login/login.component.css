@@ -1,0 +1,46 @@
+body {font-family: Arial, Helvetica, sans-serif;
+ 
+   }
+
+
+
+
+input[type=email], input[type=password] {
+  width: 40%;
+   text-align: center;
+  padding: 12px 20px;
+
+  display: inline-block;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+
+
+ margin: 24px 0 12px 0;
+
+}
+
+button {
+  background-color: #060c0a89;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 20%;
+  margin-left: 17%;
+}
+
+button:hover {
+  opacity: 0.8;
+}
+
+
+
+.container {
+  padding: 16px;
+}
+
+span.psw {
+  float: right;
+  padding-top: 16px;
+}
